@@ -1,3 +1,4 @@
+# Valida o e-mail informado no login
 def email_valido(email):
     if not email:
         return False
